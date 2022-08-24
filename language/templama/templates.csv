@@ -1,10 +1,20 @@
 Wikidata ID,Relation,Template
-P54,member of sports team,<subject> plays for <object>.
-P39,position held,<subject> holds the position of <object>.
-P108,employer,<subject> works for <object>.
-P102,political party,<subject> is a member of the <object>.
-P286,head coach,<object> is the head coach of <subject>.
-P69,educated at,<subject> attended <object>.
-P488,chairperson,<object> is the chair of <subject>.
-P6,head of government,<object> is the head of the government of <subject>.
-P127,owned by,<subject> is owned by <object>.
+P54,member of sports team,What sports team is <subject> a member of?
+P39,position held,What political office does <subject> hold?
+P108,employer,What company does <subject> work for?
+P102,political party,What political party is <subject> a member of?
+P286,head coach,Who is the head coach of <subject>?
+P69,educated at,What school did <subject> attend?
+P488,chairperson,Who is the chair of <subject>.
+P6,head of government,Who is the head of government for <subject>?
+P127,owned by,What company, country, or individual owns <subject>?
+P7938,associated electoral district,What electoral district is <subject> located in?
+P131,located in the administrative territorial entity,What administrative territory is <subject> located in?
+P26,spouse,Who is <subject> married to?
+P463,member of,What group is <subject> a member of?
+P118,league,What sports league does <subject> play in?
+P27,country of citizenship,What country is <subject> a citizen of?
+P36,capital,What is the capital of <subject>?
+P6087,coach of sports team,What team does <subject> coach?
+P159,headquarters location,Where is the headquarters of <subject> located?
+P1308,officeholder,Who holds the position of <subject>?
